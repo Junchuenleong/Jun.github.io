@@ -4,13 +4,14 @@
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 ![GitHub](https://img.shields.io/github/license/yourusername/yourrepository)
 
-Welcome to my GitHub! I am a Data Scientist and Computer Scientist proficient in multiple programming languages and with skills in three languages: English, Chinese, and Malay. This repository serves as my portfolio, showcasing my technical expertise and projects.
+Welcome to my GitHub! I am a 2nd-year degree student at the **University of Nottingham Malaysia**, specializing in Data Science and Computer Science. This repository serves as my portfolio, showcasing my technical expertise and projects.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- **Profession**: Data Scientist / Computer Scientist
+- **Education**: 2nd-Year Degree Student at University of Nottingham Malaysia
+- **Profession**: Aspiring Data Scientist / Computer Scientist
 - **Languages**: Chinese, Malay, English
 - **Programming Languages**: HTML, CSS, C, Python, R
 - **Data Science Skills**: Data Analysis, Machine Learning, Statistical Analysis, Data Visualization
