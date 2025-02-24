@@ -35,23 +35,20 @@ Welcome to my GitHub! I am a 2nd-year degree student at the **University of Nott
 
 Here are some of the projects I've worked on. You can find more details in each project folder:
 
-### 1. Data Analysis in Python
-- **Description**: Analysis of [dataset] to discover insights and trends.
-- **Skills Used**: pandas, matplotlib, seaborn
-- **Repository**: [Data Analysis Project](https://github.com/yourusername/data-analysis-project)
+
 
 ### 2. Statistical Analysis in R
 - **Description**: Performed regression analysis and hypothesis testing on [dataset].
 - **Skills Used**: ggplot2, dplyr, tidyverse
 - **Repository**: [Statistical Analysis Project](https://github.com/yourusername/statistical-analysis-project)
 
-### 3. Website Development
-- **Description**: Developed a responsive website using HTML and CSS.
-- **Skills Used**: HTML, CSS, Responsive Design
+### 3. Library system development in C
+- **Description**: Developed a library system with user interface.
+- **Skills Used**: C, 
 - **Repository**: [Portfolio Website](https://github.com/yourusername/portfolio-website)
 
-### 4. Algorithm Development in C
-- **Description**: Implemented algorithms for [specific task].
+### 4. Scheduling Algorithm Development in C
+- **Description**: Implemented  OS scheduling algorithm (eg: RoundRobin, FCFS).
 - **Skills Used**: C programming, Data Structures
 - **Repository**: [Algorithm Project](https://github.com/yourusername/algorithm-project)
 
