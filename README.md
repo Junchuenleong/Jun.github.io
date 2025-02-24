@@ -74,7 +74,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [junchuenleong@hotmail.com](mailto:junchuenleong@hotmail.com)
 
 ---
 
