@@ -40,7 +40,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 ### 2. Statistical Analysis in R
 - **Description**: Performed regression analysis and hypothesis testing on [dataset].
 - **Skills Used**: ggplot2, dplyr, tidyverse
-- **Repository**: [Statistical Analysis Project]((https://github.com/Junchuenleong/Statistical-Analysis))
+- **Repository**: [Statistical Analysis Project](https://github.com/Junchuenleong/Statistical-Analysis)
 
 ### 3. Library system development in C
 - **Description**: Developed a library system with user interface.
