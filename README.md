@@ -50,7 +50,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 ### 4. Scheduling Algorithm Development in C
 - **Description**: Implemented  OS scheduling algorithm (eg: RoundRobin, FCFS).
 - **Skills Used**: C programming, Data Structures
-- **Repository**: [Algorithm Project](https://github.com/yourusername/algorithm-project)
+- **Repository**: [Algorithm Project](https://github.com/Junchuenleong/Operating-System-Scheduling-Algorithm)
 
 ### 5. ALU Simulation in C
 - **Description**: Implemented  ALU and memory from basic gates (eg: RoundRobin, FCFS).
