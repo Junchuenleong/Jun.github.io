@@ -45,20 +45,25 @@ Here are some of the projects I've worked on. You can find more details in each 
 ### 3. Library system development in C
 - **Description**: Developed a library system with user interface.
 - **Skills Used**: C, 
-- **Repository**: [Portfolio Website](https://github.com/yourusername/portfolio-website)
+- **Repository**: [Library System](https://github.com/Junchuenleong/Library-System)
 
 ### 4. Scheduling Algorithm Development in C
 - **Description**: Implemented  OS scheduling algorithm (eg: RoundRobin, FCFS).
 - **Skills Used**: C programming, Data Structures
 - **Repository**: [Algorithm Project](https://github.com/yourusername/algorithm-project)
 
+### 5. ALU Simulation in C
+- **Description**: Implemented  ALU and memory from basic gates (eg: RoundRobin, FCFS).
+- **Skills Used**: NAND2TETRIS
+- **Repository**: [ALU Simulation](https://github.com/Junchuenleong/CPU-emulator)
+
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junchuenleong&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yJunchuenleong&layout=compact&theme=radical)](https://github.com/Junchuenleong)
 
 ---
 
