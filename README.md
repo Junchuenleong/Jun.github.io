@@ -63,7 +63,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junchuenleong&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yJunchuenleong&layout=compact&theme=radical)](https://github.com/Junchuenleong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junchuenleong&layout=compact&theme=radical)](https://github.com/Junchuenleong)
 
 ---
 
