@@ -70,7 +70,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 ## 🌍 Languages
 
 - **Chinese**: Fluent
-- **Malay**: Fluent
+- **Malay**: Proficient 
 - **English**: Fluent
 
 ---
