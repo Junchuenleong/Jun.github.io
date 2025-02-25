@@ -1,8 +1,8 @@
 # Junchuen
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-![GitHub](https://img.shields.io/github/license/yourusername/yourrepository)
+![GitHub followers](https://img.shields.io/github/followers/Junchuenleong?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Junchuenleong?style=social)
+![GitHub](https://img.shields.io/github/license/Junchuenleong/yourrepository)
 
 Welcome to my GitHub! I am a 2nd-year degree student at the **University of Nottingham Malaysia**, specializing in Data Science and Computer Science. This repository serves as my portfolio, showcasing my technical expertise and projects.
 
