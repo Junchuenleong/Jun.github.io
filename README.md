@@ -57,6 +57,11 @@ Here are some of the projects I've worked on. You can find more details in each 
 - **Skills Used**: NAND2TETRIS
 - **Repository**: [ALU Simulation](https://github.com/Junchuenleong/CPU-emulator)
 
+### 6. Analysis of Titanic Survivor using AI
+- **Description**: Implemented  Artificial Neural Network to analysis survivor rate of Titanic.
+- **Skills Used**: Python, Artificial Neural Network
+- **Repository**: [Titanic Analysis](https://github.com/Junchuenleong/Analysis-of-Titanic-s-Survivor-Rate)
+
 ---
 
 ## 📈 GitHub Stats
